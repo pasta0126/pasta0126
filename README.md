@@ -1,16 +1,16 @@
-# ¡Hola! 👋 Soy pasta0126
+# 👋 Malo ni! 
 
-### Desarrollador Full Stack en .NET 💻
+### Full Stack Developer ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
 
-Soy una persona inquieta que disfruta de aprender y trabajar con nuevas tecnologías, 
+I am a restless person who enjoys learning and working with new technologies.
 
-Mi enfoque full stack en .NET y experiencia con bases de datos relacionales y no relacionales me permiten adaptarme a distintos entornos y resolver desafíos complejos.
+My full stack focus in .NET and experience with relational and non-relational databases allow me to adapt to different environments and tackle complex challenges.
 
-- 💻 **Tecnologías**:
+- 💻 **Technologies**:
   - **Frontend**: Angular, Ionic, Flutter
-  - **Backend**: .NET (Framework y Core), Microservicios, Docker
-  - **Bases de datos**: SQL Server, MySQL, MariaDB, MongoDB, SQLite, CouchDB, Oracle, Redis
+  - **Backend**: .NET (Framework and Core), Microservices, Docker
+  - **Databases**: SQL Server, MySQL, MariaDB, MongoDB, SQLite, CouchDB, Oracle, Redis
 
-- 🌱 **Explorando**:
-  - Experimentando con **Ionic** y **Flutter** para aplicaciones móviles.
-  - Integración de sistemas distribuidos y arquitectura hexagonal en proyectos backend.
+- 🌱 **Exploring**:
+  - Experimenting with **Ionic** and **Flutter** for mobile applications.
+  - Integrating distributed systems and hexagonal architecture in backend projects.
