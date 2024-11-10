@@ -1,9 +1,16 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy pasta0126
 
-- 🔭 I’m currently working on get some new softskills to improve my skills.
+### Desarrollador Full Stack en .NET 💻
 
-- 🌱 I’m currently learning NodeJs, Flutter...
+Soy una persona inquieta que disfruta de aprender y trabajar con nuevas tecnologías, 
 
-- 🤔 I’m looking for help with a new repo created to make easy the challenge to do a [biography](https://github.com/pasta0126/Biography)
+Mi enfoque full stack en .NET y experiencia con bases de datos relacionales y no relacionales me permiten adaptarme a distintos entornos y resolver desafíos complejos.
 
-- 💬 Ask me about what you want @pasta0126
+- 💻 **Tecnologías**:
+  - **Frontend**: Angular, Ionic, Flutter
+  - **Backend**: .NET (Framework y Core), Microservicios, Docker
+  - **Bases de datos**: SQL Server, MySQL, MariaDB, MongoDB, SQLite, CouchDB, Oracle, Redis
+
+- 🌱 **Explorando**:
+  - Experimentando con **Ionic** y **Flutter** para aplicaciones móviles.
+  - Integración de sistemas distribuidos y arquitectura hexagonal en proyectos backend.
